@@ -107,7 +107,7 @@ body{
 	margin-right: 10px;
 }
 
-.humidity, .wind, .sunrise, .sundown, .tempmax, .tempmin{
+.humidity, .wind, .visibility, .winddirection, .tempmax, .tempmin{
 	font-size: 28px;
 	margin-top: 10px;
   margin-bottom: 10px;
