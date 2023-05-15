@@ -107,7 +107,7 @@ body{
 	margin-right: 10px;
 }
 
-.humidity, .wind, .visibility, .winddirection, .tempmax, .tempmin{
+.humidity, .wind, .sunrise, .sundown, .tempmax, .tempmin{
 	font-size: 28px;
 	margin-top: 10px;
   margin-bottom: 10px;
@@ -221,7 +221,6 @@ body.dark-mode {
 .conversion-btn:hover {
   background-color: transparent;
 }
-
 
 
 
